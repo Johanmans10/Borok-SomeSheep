@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.version}
+main: ${somesheep.mainclass}
+author: ${somesheep.author}
+description: ${somesheep.description}

@@ -5,19 +5,19 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>xyz.johanmans10</groupId>
-    <artifactId>somesheeps</artifactId>
-    <version>${somesheeps.version}</version>
-    <name>SomeSheeps</name>
+    <artifactId>somesheep</artifactId>
+    <version>1.0.0</version>
+    <name>SomeSheep</name>
 
     <properties>
-        <somesheeps.author>Johanmans10</somesheeps.author>
-        <somesheeps.version>1.0.0-SNAPSHOT</somesheeps.version>
-        <somesheeps.description>Custom plugin about sheep</somesheeps.description>
+        <somesheep.author>Johanmans10</somesheep.author>
+        <somesheep.version>${project.version}</somesheep.version>
+        <somesheep.description>Custom plugin about sheep</somesheep.description>
 
-        <somesheeps.depend.hard> </somesheeps.depend.hard>
-        <somesheeps.depend.soft> </somesheeps.depend.soft>
+        <somesheep.depend.hard> </somesheep.depend.hard>
+        <somesheep.depend.soft> </somesheep.depend.soft>
 
-        <somesheeps.mainclass>${project.groupId}.${project.artifactId}.${project.name}</somesheeps.mainclass>
+        <somesheep.mainclass>${project.groupId}.${project.artifactId}.${project.name}</somesheep.mainclass>
 
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
